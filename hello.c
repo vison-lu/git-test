@@ -6,5 +6,6 @@ int main(void)
 	printf("How are you");
 	    printf("Hello world\n");
 	printf("How are you");
+	printf("push changed to github");
     return 0;
 }
